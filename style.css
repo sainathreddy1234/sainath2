@@ -1,0 +1,25 @@
+.page-footer{
+    background-color: green;
+    color: white;
+}
+.navbar-custom{
+    background-color: black;
+    color: ghostwhite;
+}
+.p{
+    font-weight: 800;
+}
+.salman{
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+.salman:hover, .salman:focus {
+    color: #d0ff00  !important;
+}
+.custom-icon{
+    color: royalblue;
+    font-size: 40px;
+    
+}
